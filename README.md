@@ -1,1 +1,1 @@
-# simple-donation-website
+# Simple-Donation-Website
